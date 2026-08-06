@@ -11,7 +11,8 @@ Vehicules = ['Car','trucks','Boat','Airplane']
 print('Vehicules:','Vehicules')
 print('Number of vehicules:',print(len(Vehicules)))
 
-Car_brands = ['Honda','Hyundai','Kia','Chrysler','Dodge']
+Car_brands = ['Honda','Hyundai','Kia','Chrysler','Dodge','VW']
 print('Car_brands:',Car_brands)
 print('The number of Car_brands:','print(len(Car_brands))')
 
+Fruit = ('Guava','Mango','Dragon fruit')
