@@ -1,19 +1,17 @@
-def print_Jeff ():
-    text = 'I could do every python learning in 30 days Imma trynna stay consistent'
-    print(text)
-    print(text)
-    print(text)
+#How to build a list group 
+Categories = list()
+print(Categories)
 
-print_Jeff()
-print_Jeff()
-print_Jeff()
+Category = []
+print(len(Category)) #It shows that we didnt fill the list between in our braket
 
-# Single line comment
-letter = 'P'                # A string could be a single character or a bunch of texts
-print(letter)               # P
-print(len(letter))          # 1
-greeting = 'Hello, World!'  # String could be  a single or double quote,"Hello, World!"
-print(greeting)             # Hello, World!
-print(len(greeting))        # 13
-sentence = "I hope you are enjoying 30 days of python challenge"
-print(sentence)
+#Finding a length that are included in our list 
+
+Vehicules = ['Car','trucks','Boat','Airplane']
+print('Vehicules:','Vehicules')
+print('Number of vehicules:',print(len(Vehicules)))
+
+Car_brands = ['Honda','Hyundai','Kia','Chrysler','Dodge']
+print('Car_brands:',Car_brands)
+print('The number of Car_brands:','print(len(Car_brands))')
+
