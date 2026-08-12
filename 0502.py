@@ -120,5 +120,3 @@ first_item = Small[0]
 print(first_item)
 second_item = Small[1]
 print(second_item)
-third_item = Small[last_index]
-print(third_item)
